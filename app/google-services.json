@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "693624326240",
+    "project_id": "messenger-1ff98",
+    "storage_bucket": "messenger-1ff98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693624326240:android:83cda333e5ff08c59a9b05",
+        "android_client_info": {
+          "package_name": "com.example.cursowhatsapp.a2990messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693624326240-usr1eq9c8grf04olhsr35reppvhq6sm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cursowhatsapp.a2990messenger",
+            "certificate_hash": "0748afdc4f57b4056255a3b68cb94e8d0109d08e"
+          }
+        },
+        {
+          "client_id": "693624326240-scfegs0s4smbsou0p7phls6docks3dbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Pu-T3znNcS6QFfOfZa2PaQcJsQl7Vbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693624326240-scfegs0s4smbsou0p7phls6docks3dbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
